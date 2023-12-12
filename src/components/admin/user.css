@@ -1,0 +1,14 @@
+@media screen and (max-width: 420px) {
+    .userTableBox {
+        /* width: 100%; */
+        max-width: 410px;
+    }
+}
+
+
+/* @media screen and (max-width: 820px) {
+    .userTableBox {
+        width: 100%;
+        max-width: 800px;
+    }
+} */

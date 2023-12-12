@@ -1,0 +1,37 @@
+#loginContainer {
+    min-width: 600px !important;
+    min-height: 400px;
+    border-radius: 4px;
+    box-shadow: #e5dede 0px 5px 15px;
+    margin-top: 80px;
+    padding: 60px;
+}
+
+.inputBox {
+    /* margin-top: 10px; */
+}
+
+.inputBox input {
+    height: 40px;
+    width: 100%;
+    border: 1px solid #EEEEEE;
+    margin-top: 7px;
+}
+
+.inputBox textarea {
+    height: 100px;
+    width: 100%;
+    border: 1px solid #EEEEEE;
+    margin-top: 7px;
+}
+
+@media only screen and (max-width: 414px) {
+    #loginContainer {
+        min-width: 300px !important;
+        min-height: 400px;
+        border-radius: 4px;
+        box-shadow: #e5dede 0px 5px 15px;
+        margin-top: 80px;
+        padding: 60px;
+    }
+}

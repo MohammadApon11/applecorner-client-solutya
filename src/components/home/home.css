@@ -1,0 +1,15 @@
+#homeIcon {
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    /* background-image: url(../images/home.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center; */
+}
